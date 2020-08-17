@@ -1,0 +1,15 @@
+Perform sql statements from command line:
+psql --app szandraswebspace (replace with app name)
+
+SQL:
+Select from table;
+delete from table;
+
+Using python inside heroku:
+heroku run python
+
+Using command line (Linux) inside heroku:
+heroku run bash
+
+Activate virtual environment:
+source virtual/bin/activate 

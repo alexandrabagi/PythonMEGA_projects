@@ -1,0 +1,54 @@
+html, body {
+    height: 100%;
+    margin: 0
+}
+
+.container {
+    margin: 0 auto;
+    background-color: antiquewhite;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+    align-items: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    margin-top: 50px;
+    margin-bottom: 80px;
+    color: 	#cc6633;
+    font-size: 50px;
+}
+
+button {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: #cc6633;
+    color: white;
+    border-color: #cc6633;
+    padding: 10px;
+}
+
+.myclass {
+    margin-left: auto;
+    margin-right: auto;
+    color: blue
+}
+
+.container .myclass {
+    margin-left: auto;
+    margin-right: auto;
+    color: blue
+}
+
+.container .datatable {
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    color: blue
+}
+
+table {
+    border: 2
+}

@@ -1,0 +1,3 @@
+http://www.google.com/finance/historical?q=NASDAQ:ADBE&startdate=Jan+01%2C+2009&enddate=Aug+2%2C+2012&output=csv
+
+https://query1.finance.yahoo.com/v7/finance/download/%5EIXIC?period1=1230768000&period2=1341014400&interval=1d&events=history
